@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.0" method="upgrade">
+  <name>JoomJComments</name>
+  <author>JoomGallery::Project Team</author>
+  <creationDate>2015/09/27</creationDate>
+  <copyright>This module is released under the GNU/GPL License.</copyright>
+  <authorEmail>team@joomgallery.net</authorEmail>
+  <authorUrl>www.joomgallery.net</authorUrl>
+  <version>3.0</version>
+  <description>JoomJComments</description>
+  <files>
+    <filename module="mod_joomjcom">mod_joomjcom.php</filename>
+    <filename>index.html</filename>
+  </files>
+</extension>
